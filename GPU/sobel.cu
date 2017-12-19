@@ -4,7 +4,7 @@
 #include <unistd.h>
 #include "string.h"
 #include "cuda.h"
-#include <helper_image.h>     // helper for image and data comparison
+#include <../Lib/helper_image.h>     // helper for image and data comparison
 
 // This code is written by Arash Nemati Hayati 00763261 - Feb 26, 2016
 #define opt 1 // The version to be used
